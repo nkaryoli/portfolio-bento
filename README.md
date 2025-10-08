@@ -7,4 +7,4 @@ Crear una página personal básica en HTML, utilizando etiquetas y conceptos apr
 ## 🔗 Demo en línea
 
 Puedes ver el proyecto desplegado aquí:  
-👉 [Exploración Histórica de HTML](https://nkaryoli.github.io/portfolio-bento/)
+👉 [Portfoli-bento](https://nkaryoli.github.io/portfolio-bento/)
